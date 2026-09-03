@@ -59,3 +59,15 @@ button[type="submit"] {
     cursor: pointer;
     width: 100%;
 }
+
+footer {
+    background-color: #2b7a78;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+.footer-info {
+    margin-bottom: 10px;
+}
